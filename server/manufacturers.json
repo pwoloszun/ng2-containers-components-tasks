@@ -1,0 +1,7 @@
+[
+  {"id": 10, "name": "Sony", "categoryId": 1},
+  {"id": 20, "name": "Apple", "categoryId": 1},
+  {"id": 30, "name": "Nokia", "categoryId": 1},
+  {"id": 40, "name": "Huawei", "categoryId": 2},
+  {"id": 50, "name": "Samsung", "categoryId": 2}
+]

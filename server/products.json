@@ -1,0 +1,77 @@
+[
+  {
+    "id": 101,
+    "name": "Samsung phone XXX",
+    "manufacturerId": 10
+  },
+  {
+    "id": 102,
+    "name": "Sony phone imba!",
+    "manufacturerId": 10
+  },
+  {
+    "id": 103,
+    "name": "Sony other phone model",
+    "manufacturerId": 10
+  },
+  {
+    "id": 201,
+    "name": "Apple some phone model",
+    "manufacturerId": 20
+  },
+  {
+    "id": 202,
+    "name": "Apple phone II",
+    "manufacturerId": 20
+  },
+  {
+    "id": 301,
+    "name": "Nokia 1",
+    "manufacturerId": 30
+  },
+  {
+    "id": 302,
+    "name": "Nokia 22",
+    "manufacturerId": 30
+  },
+  {
+    "id": 303,
+    "name": "Nokia New",
+    "manufacturerId": 30
+  },
+  {
+    "id": 304,
+    "name": "Nokia Old",
+    "manufacturerId": 30
+  },
+  {
+    "id": 401,
+    "name": "Hu One",
+    "manufacturerId": 40
+  },
+  {
+    "id": 402,
+    "name": "Hu 2nd",
+    "manufacturerId": 40
+  },
+  {
+    "id": 403,
+    "name": "Hu hu!",
+    "manufacturerId": 40
+  },
+  {
+    "id": 501,
+    "name": "Samsung Tab 1",
+    "manufacturerId": 50
+  },
+  {
+    "id": 502,
+    "name": "Samsung Tab 2",
+    "manufacturerId": 50
+  },
+  {
+    "id": 503,
+    "name": "Samsung Tab 3",
+    "manufacturerId": 50
+  }
+]

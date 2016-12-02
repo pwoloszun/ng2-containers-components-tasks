@@ -1,0 +1,13 @@
+<div class="container-fluid">
+  <h1>{{title}}</h1>
+  <nav>
+    <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
+    <a routerLink="/products-search" routerLinkActive="active">Products Search</a>
+    <a routerLink="/search-by-name" routerLinkActive="active">Search By Name</a>
+  </nav>
+</div>
+<div class="container">
+  <div class="row">
+    <router-outlet></router-outlet>
+  </div>
+</div>
